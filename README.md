@@ -17,3 +17,9 @@ Es una aplicación web interactiva que permite a los usuarios explorar un listad
 - **HTML**: Estructura del contenido web.
 - **CSS**: Estilos y diseño visual del sitio.
 - **JavaScript**: Funcionalidad interactiva, manejo de eventos y manipulación del DOM.
+
+  <img width="914" alt="{5F62D39E-6866-4504-AC29-10AFCA6BDFD6}" src="https://github.com/user-attachments/assets/4b6e9d09-832e-4e3b-b4cd-7db3bb944608">
+
+  <img width="913" alt="{DA5EB7FA-473C-4F20-9085-019AFAE42986}" src="https://github.com/user-attachments/assets/df2326d0-2d17-4753-a0af-03b67978aff7">
+
+
